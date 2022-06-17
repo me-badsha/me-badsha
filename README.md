@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### It's Badsha Faysal
 
-[![Website](https://img.shields.io/website?label=mehedi-hasan.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linktr.ee/Badsha_Faysal)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheAlter72?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=badshafaysal0)
+[![Website](https://img.shields.io/website?label=Badsha-Faysal.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linktr.ee/Badsha_Faysal)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheBadshaFaysal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=badshafaysal0)
 
 #### Quick things about me!!
 
