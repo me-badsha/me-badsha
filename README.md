@@ -7,7 +7,7 @@
 #### Quick things about me!!
 
 - 🌱 I want to grow-up.🙂
-- 🔭 Currently learning everything 🤣
+- 🔭 Currently learning everything...🤣
 - 👯 Looking to collaborate with other programmers.😊
 - 🥅 2022 Goals: Contribute more to Open Source projects!😎
 - ⚡ Fun fact: I love to do new things.🧐
