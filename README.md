@@ -25,7 +25,7 @@
 
 [website]: https://linktr.ee/Badsha_Faysal
 [facebook]: https://www.facebook.com/badshafaysal0/
-[linkedin]: https://www.linkedin.com/in/badsha-faysal-a315931a2/
+[linkedin]: https://www.linkedin.com/in/badshafaysal0/
 [instagram]: https://www.instagram.com/badshafaysal0/
 [stack]: https://stackoverflow.com/users/13024199/badshafaysal0
 [twitter]: https://twitter.com/badshafaysal0
