@@ -11,8 +11,7 @@
 - 👯 Looking to collaborate with other programmers.😊
 - 🥅 2022 Goals: Contribute more to Open Source projects!😎
 - ⚡ Fun fact: I love to do new things.🧐
-
-<br><br><br><br>
+<br><br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://pastebin.ubuntu.com/p/2s8smghw5N/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="animationcoding" /></a></p><br><br>
