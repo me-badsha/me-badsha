@@ -35,4 +35,4 @@
 [instagram]: https://www.instagram.com/badshafaysal0/
 [stack]: https://stackoverflow.com/users/13024199/badshafaysal0
 [twitter]: https://twitter.com/badshafaysal0
-<a href="https://youtube.com/channel/UCb4YAWrLP8R3zz_IN8AR9dQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="animationcoding" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCb4YAWrLP8R3zz_IN8AR9dQ" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Badshafaysal" height="30" width="40" /></a>
