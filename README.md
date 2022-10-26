@@ -12,6 +12,13 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects!😎
 - ⚡ Fun fact: I love to do new things.🧐
 
+<br><br><br><br>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://pastebin.ubuntu.com/p/2s8smghw5N/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="animationcoding" /></a></p><br><br>
+
+<br><br>
+
 ### Connect with me:
 
 [<img align="left" alt="linktr.ee/Badsha_Faysal | website" width="48px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
