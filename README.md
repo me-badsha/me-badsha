@@ -20,7 +20,7 @@
 ## My Handles
 [![Website](https://img.shields.io/website?label=Badsha-Faysal.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linktr.ee/Badsha_Faysal)
 [![Twitter Follow](https://img.shields.io/twitter/follow/badshafaysal0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=badshafaysal0)
-[<img src="https://img.shields.io/badge/BaFay-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/BaFay) 
+[<img src="https://img.shields.io/badge/BaFay-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/BaFay)
 
  ![Profile views](https://gpvc.arturio.dev/me-badsha)
 
@@ -31,7 +31,6 @@
 <br><br>
 
 ### Connect with me:
-[<img src="https://img.shields.io/badge/badshafaysal0?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/badshafaysal0/)
 
 [<img align="left" alt="linktr.ee/Badsha_Faysal | website" width="48px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
 [<img align="left" alt="facebook.com/badshafaysal0" width="48px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
