@@ -49,6 +49,7 @@
 <a href="https://youtube.com/channel/UCb4YAWrLP8R3zz_IN8AR9dQ" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Badshafaysal" height="30" width="40" /></a>
 
 <br>
+
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=me-badsha&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
  
