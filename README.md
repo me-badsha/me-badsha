@@ -30,6 +30,7 @@
 <br><br>
 
 ### Connect with me:
+[<img src="https://img.shields.io/badge/badshafaysal0?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/badshafaysal0/)
 
 [<img align="left" alt="linktr.ee/Badsha_Faysal | website" width="48px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
 [<img align="left" alt="facebook.com/badshafaysal0" width="48px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
