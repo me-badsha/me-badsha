@@ -1,17 +1,14 @@
-### Hi there 👋
 ### It's Badsha Faysal
+### About Me
+
+### My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=dark" alt="BadshaFaysal" />
+
 
 [![Website](https://img.shields.io/website?label=Badsha-Faysal.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linktr.ee/Badsha_Faysal)
 [![Twitter Follow](https://img.shields.io/twitter/follow/badshafaysal0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=badshafaysal0)
 
-#### Quick things about me!!
 
-- 🌱 I want to grow-up.🙂
-- 🔭 Currently learning everything...🤣
-- 👯 Looking to collaborate with other programmers.😊
-- 🥅 2022 Goals: Contribute more to Open Source projects!😎
-- ⚡ Fun fact: I love to do new things.🧐
-<br><br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://pastebin.ubuntu.com/p/2s8smghw5N/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="animationcoding" /></a></p><br><br>
