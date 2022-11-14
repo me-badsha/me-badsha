@@ -4,8 +4,10 @@
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=me-badsha&show_icons=true&count_private=true&theme=dark" alt="me-badsha" />
 <br>
+
 ### My Stacks
-#### Languages: C++ | Python | C  
+  
+#### Languages: C++ | Python | C
 
 #### Frontend: HTML | CSS | React 
 
