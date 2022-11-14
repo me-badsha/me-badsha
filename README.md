@@ -2,7 +2,7 @@
 ### About Me
 
 ### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=dark" alt="BadshaFaysal" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=me-badsha&show_icons=true&count_private=true&theme=dark" alt="me-badsha" />
 
 
 [![Website](https://img.shields.io/website?label=Badsha-Faysal.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linktr.ee/Badsha_Faysal)
